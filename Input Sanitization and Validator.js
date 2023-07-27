@@ -1,7 +1,7 @@
 const express = require('express');
 const partials = require('express-partials');
 const path = require('path');
-// Require Validator module here
+
 
 const app = express();
 
